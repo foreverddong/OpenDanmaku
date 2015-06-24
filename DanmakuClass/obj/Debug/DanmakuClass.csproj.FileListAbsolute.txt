@@ -1,0 +1,8 @@
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\bin\Debug\DanmakuClass.exe
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\bin\Debug\DanmakuClass.pdb
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.csprojResolveAssemblyReference.cache
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.Form1.resources
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.Properties.Resources.resources
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.csproj.GenerateResource.Cache
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.exe
+d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.pdb
