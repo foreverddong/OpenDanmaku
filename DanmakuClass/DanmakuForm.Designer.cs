@@ -1,6 +1,6 @@
 ﻿namespace DanmakuClass
 {
-    partial class Form1
+    partial class DanmakuForm
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -37,7 +37,7 @@
             this.ClientSize = new System.Drawing.Size(482, 338);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.DanmakuForm_Load);
      
             this.ResumeLayout(false);
 

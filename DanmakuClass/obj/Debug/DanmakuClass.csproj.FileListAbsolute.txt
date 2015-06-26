@@ -6,3 +6,13 @@ d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Deb
 d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.csproj.GenerateResource.Cache
 d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.exe
 d:\store\documents\visual studio 2013\Projects\DanmakuClass\DanmakuClass\obj\Debug\DanmakuClass.pdb
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.exe
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.pdb
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\bin\Debug\DanmakuClass.exe
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\bin\Debug\DanmakuClass.pdb
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.Properties.Resources.resources
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.Server.resources
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.csproj.GenerateResource.Cache
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.DanmakuForm.resources
+\\psf\Home\Documents\OpenDanmaku\DanmakuClass\obj\Debug\DanmakuClass.DebugForm.resources
