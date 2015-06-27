@@ -38,18 +38,20 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(23, 402);
+            this.button1.Location = new System.Drawing.Point(12, 201);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(303, 100);
+            this.button1.Size = new System.Drawing.Size(152, 50);
             this.button1.TabIndex = 0;
             this.button1.Text = "Open Server";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(484, 402);
+            this.button2.Location = new System.Drawing.Point(242, 201);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(303, 100);
+            this.button2.Size = new System.Drawing.Size(152, 50);
             this.button2.TabIndex = 1;
             this.button2.Text = "Close Server";
             this.button2.UseVisualStyleBackColor = true;
@@ -57,26 +59,29 @@
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 24;
-            this.listBox1.Location = new System.Drawing.Point(23, 13);
+            this.listBox1.ItemHeight = 12;
+            this.listBox1.Location = new System.Drawing.Point(12, 6);
+            this.listBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(764, 364);
+            this.listBox1.Size = new System.Drawing.Size(384, 184);
             this.listBox1.TabIndex = 2;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(23, 547);
+            this.button3.Location = new System.Drawing.Point(12, 274);
+            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(303, 100);
+            this.button3.Size = new System.Drawing.Size(152, 50);
             this.button3.TabIndex = 3;
             this.button3.Text = "Clear Log";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(491, 547);
+            this.button4.Location = new System.Drawing.Point(246, 274);
+            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(295, 99);
+            this.button4.Size = new System.Drawing.Size(148, 50);
             this.button4.TabIndex = 4;
             this.button4.Text = "Open Debug";
             this.button4.UseVisualStyleBackColor = true;
@@ -84,24 +89,27 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(23, 703);
+            this.button5.Location = new System.Drawing.Point(12, 352);
+            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(303, 100);
+            this.button5.Size = new System.Drawing.Size(152, 50);
             this.button5.TabIndex = 5;
             this.button5.Text = "Open Settings";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // Server
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(814, 846);
+            this.ClientSize = new System.Drawing.Size(407, 423);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Server";
             this.Text = "Server";
             this.Load += new System.EventHandler(this.Server_Load);
