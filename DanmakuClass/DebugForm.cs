@@ -43,6 +43,7 @@ namespace DanmakuClass
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
             myOwner.danmaku.danmakuSpeed = trackBar1.Value;
+            
         }
     }
 }

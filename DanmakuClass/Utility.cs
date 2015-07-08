@@ -22,4 +22,12 @@ namespace DanmakuClass
         public System.String DanmakuString;
         public Label DanmakuBox;
     }
+     public class danmakuMessage
+     {
+         int Size;
+         int r;
+         int g;
+         int b;
+         string message;
+     }
 }
